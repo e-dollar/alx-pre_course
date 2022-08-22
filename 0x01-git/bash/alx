@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "ALX school is so cool!"
-
-=======
-echo "ALX"
->>>>>>> parent of faba3c4... My personal work
+echo "ALX school"
